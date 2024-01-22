@@ -36,7 +36,7 @@ Budget Tracker is a financial tool designed for individual users to effectively 
 #### 3. Expense Management
 - **Expense Dashboard:** Displays a list of all expenses associated with the user's account.
 - **Adding Expense:** Users can add new expenses using a dedicated form.
-- 
+  
 <div float="left">
 <img src="https://github.com/czaacza/budget-tracker/blob/master/img/Zrzut%20ekranu%202024-01-6%20o%2016.30.38.png" width="200">
 <img src="https://github.com/czaacza/budget-tracker/blob/master/img/Zrzut%20ekranu%202024-01-6%20o%2016.32.02.png" width="200">
