@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The "Budget Tracker" project developed as part of the "Programowanie aplikacji mobilnych i webowych" course aims to create a web application for personal budget management. The application allows users to monitor income and expenses, manage savings, and analyze their financial habits.
+The "Budget Tracker" project aims to create a web application for personal budget management. The application allows users to monitor income and expenses, manage savings, and analyze their financial habits.
 
 <img src="https://github.com/czaacza/budget-tracker/blob/master/img/Zrzut%20ekranu%202024-01-6%20o%2016.26.37.png" width="200">
 
